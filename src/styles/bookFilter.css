@@ -1,0 +1,23 @@
+.searcbox {
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+
+.card {
+
+    width: 19rem !important;
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 5%;
+    padding: 4%;
+    height: auto;
+
+}
+
+.card-img-top {
+    height: 18rem;
+    width: 15rem;
+    margin:auto;
+
+}

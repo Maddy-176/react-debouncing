@@ -1,0 +1,176 @@
+{
+    "book":[
+
+{"title": "Northanger Abbey",
+ "author": "Austen, Jane", 
+ "year_written": 1814,
+ "edition": "Penguin",
+ "price":  190,
+ "imgUrl":"https://m.media-amazon.com/images/M/MV5BMjA1ODE4MzAwOF5BMl5BanBnXkFtZTcwNTAyMjE2MQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+ "type":"books",
+ "productId":"KL2401",
+ "genre":"fiction",
+ "warranty": "NA",
+ "discount":"10% on using Amazon pay"
+ 
+
+},
+
+{"title": "War and Peace",
+ "author": "Tolstoy, Leo",
+ "year_written": 1865,
+ "edition": "Penguin",
+ "price":  650,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/6faafc7b-cec8-4c6d-9b3d-42aeba8fc09a/353/569/90/False/war-and-peace-166.jpg",
+ "type":"books",
+ "productId":"KL2402",
+ "genre":"philosophical",
+ "warranty": "NA",
+ "discount":"10% on using Amazon pay"
+
+
+
+},
+
+{"title": "Anna Karenina",
+ "author": "Tolstoy, Leo",
+ "year_written": 1875,
+ "edition": "Random House",
+ "price":  200,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/b1b172b6-9395-46ec-aabf-a04481fc7292/353/569/90/False/anna-karenina-30.jpg",
+ "type":"books",
+ "productId":"KL2403",
+ "genre":"philosophical",
+ "discount":"Get extra 5% off (price inclusive of discount)"
+
+},
+
+{"title": "Mrs. Dalloway",
+ "author": "Woolf, Virginia",
+ "year_written": 1925,
+ "edition": "Harcourt Brace",
+ "price":  250,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/e7c32086-02d3-458a-9c97-d330574e5601/180/1000/False/mrs-dalloway-28.jpg",
+ "type":"books",
+ "productId":"KL2403",
+ "genre":"fiction",
+ "warranty": "NA",
+ "discount":"Get extra 2% off (price inclusive of discount)"
+
+
+},
+
+{"title": "The Hours",
+"author": "Cunnningham, Michael",
+"year_written": 1999,
+"edition": "Harcourt Brace",
+"price":  700,
+"imgUrl":"https://kbimages1-a.akamaihd.net/e1f6fe1f-689d-4f7a-8376-6cd385976048/353/569/90/False/the-hours-1.jpg",
+"type":"books",
+"productId":"KL2404",
+"genre":"drama",
+"warranty": "NA",
+"discount":"NA"
+
+
+
+},
+
+{"title": "Huckleberry Finn",
+ "author": "Twain, Mark",
+ "year_written": 1865,
+ "edition": "Penguin",
+ "price":  540,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/6ff30a7d-539d-4cad-ac85-79ef7cd348c2/353/569/90/False/huckleberry-lake.jpg",
+ "type":"books",
+ "productId":"KL2405",
+ "genre":"fiction",
+ "warranty": "NA"
+
+
+},
+
+{"title": "Bleak House",
+ "author": "Dickens, Charles",
+ "year_written": 1870,
+ "edition": "Random House",
+ "price":  575,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/e5061694-9897-468f-b7af-965bf947ddfe/353/569/90/False/bleak-the-story-of-a-shapeshifter.jpg",
+ "type":"books",
+ "productId":"KL2406",
+ "genre":"fiction",
+ "warranty": "NA"
+
+
+},
+
+{
+ "title": "Tom Sawyer",
+ "author": "Twain, Mark",
+ "year_written": 1862,
+ "edition": "Random House",
+ "price":  775,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/2376398f-5473-4ee0-9f45-ad444d0394cb/353/569/90/False/sawyer-17.jpg",
+ "type":"books",
+ "productId":"KL2407",
+ "genre":"fiction",
+ "warranty": "NA"
+
+
+},
+
+{
+    
+ "title": "A Room of One's Own",
+ "author": "Woolf, Virginia",
+ "year_written": 1922,
+ "edition": "Penguin",
+ "price":  150,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/699e23ea-5ce1-44d1-bbae-1dac72aac66b/353/569/90/False/a-room-of-one-s-own-3.jpg",
+ "type":"books",
+ "productId":"KL2408",
+ "genre":"philosophical",
+ "warranty": "NA"
+
+},
+
+{"title": "Harry Potter & The Philosopher's Stone",
+ "author": "Rowling, J.K.",
+ "year_written": 2000,
+ "edition": "Harcourt Brace",
+ "price":  1250,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/32c78227-1b4d-44bf-8acb-a571eef2c58b/180/1000/False/harry-potter-and-the-philosopher-s-stone-5.jpg",
+ "type":"books",
+ "productId":"KL2409",
+ "genre":"fiction",
+ "warranty": "NA" 
+},
+
+{"title": "One Hundred Years of Solitude",
+ "author": "Marquez",
+ "year_written": 1967, 
+ "edition": "Random House",
+ "price":  1400,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/b1e75ebc-3e99-421a-be6a-b7317a4f670f/353/569/90/False/one-hundred-years-of-solitude-3.jpg",
+ "type":"books",
+ "productId":"KL2410",
+ "genre":"philosophical",
+ "warranty": "NA"
+
+},
+
+{
+"title": "Hamlet, Prince of Denmark",
+ "author": "Shakespeare",
+ "year_written": 1603,
+ "edition": "Harper  Perennial",
+ "price":  795,
+ "imgUrl":"https://kbimages1-a.akamaihd.net/22e9623c-1c2d-4596-93cd-d7f54da503f2/353/569/90/False/hamlet-3.jpg",
+ "type":"books",
+ "productId":"KL2411",
+ "genre":"drama",
+ "warranty": "NA"
+}
+
+]
+}
